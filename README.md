@@ -46,7 +46,9 @@ CodeAlpha_FileOrganizer/
 └── screenshots/
     ├── before.png
     ├── after.png
-    └── terminal.png
+    ├── input_terminal.png
+    └── output_terminal.png
+     
 ```
 
 ---
