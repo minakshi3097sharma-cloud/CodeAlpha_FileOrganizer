@@ -107,11 +107,11 @@ python file_organizer.py
 
 ### Terminal Input
 
-![Input Terminal](screenshots/Inputterminal.png)
+![Input Terminal](screenshots/Input_terminal.png)
 
 ### Terminal Output
 
-![Output Terminal](screenshots/Outputterminal.png)
+![Output Terminal](screenshots/Output_terminal.png)
 
 ### After Organizing
 
